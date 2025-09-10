@@ -34,11 +34,9 @@ int main() {
     {
         for (int i = 0; i < 2; i++)
         {
-            printf(" Baixo\n");
+            printf(" Cima\n");
         }
-        printf(" Esquerda\n");
+        printf(" Direita\n");
     }
-    
-    
     return 0;
 }
